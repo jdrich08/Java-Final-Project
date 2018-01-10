@@ -1,1 +1,1 @@
-# GitHub
+# Java Movie Database Project
